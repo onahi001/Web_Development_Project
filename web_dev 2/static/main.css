@@ -900,9 +900,9 @@ section.link_section .quickdisplay {
   }
   .deliverables .container .right_col .phone_img {
     width: 63%;
-    height: 100%;
+    height: 93%;
     position: relative;
-    top: -27em;
+    top: -25.5em;
     left: 6.5em;
     z-index: 4;
   }
@@ -919,8 +919,9 @@ section.link_section .quickdisplay {
     gap: 2em;
   }
   section.plans {
-    margin: 0;
+    margin-top: 2em;
     padding: 0;
+    width: 100%;
   }
   section.plans .container {
     background: #F7FEFC;
